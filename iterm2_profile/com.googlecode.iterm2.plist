@@ -288,9 +288,9 @@
 	<key>NSWindow Frame SUUpdateAlert</key>
 	<string>410 364 620 392 0 0 1440 877 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>367 351 796 473 0 0 1440 877 </string>
+	<string>394 479 770 381 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>0 0 1440 401 0 0 1440 877 </string>
+	<string>0 0 1440 221 0 0 1440 877 </string>
 	<key>New Bookmarks</key>
 	<array>
 		<dict>
@@ -955,7 +955,7 @@
 	<key>NoSyncInstallationId</key>
 	<string>5F8E95E7-09C1-450D-94BC-CB6A154618EE</string>
 	<key>NoSyncLastTipTime</key>
-	<real>497898997.76104498</real>
+	<real>498075175.222</real>
 	<key>NoSyncPermissionToShowTip</key>
 	<true/>
 	<key>NoSyncTimeOfFirstLaunchOfVersionWithTip</key>
@@ -963,10 +963,16 @@
 	<key>NoSyncTipsToNotShow</key>
 	<array>
 		<string>000</string>
+		<string>0000</string>
+		<string>0001</string>
+		<string>0002</string>
+		<string>0003</string>
 	</array>
 	<key>OpenArrangementAtStartup</key>
 	<false/>
 	<key>OpenNoWindowsAtStartup</key>
+	<false/>
+	<key>PMPrintingExpandedStateForPrint2</key>
 	<false/>
 	<key>PointerActions</key>
 	<dict>
@@ -1003,6 +1009,8 @@
 	</dict>
 	<key>PrefsCustomFolder</key>
 	<string>/Users/joese/settings/dotfiles/iterm2_profile</string>
+	<key>Print In Black And White</key>
+	<true/>
 	<key>SUAutomaticallyUpdate</key>
 	<true/>
 	<key>SUEnableAutomaticChecks</key>
@@ -1014,11 +1022,13 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2016-10-11T17:16:36Z</date>
+	<date>2016-10-12T17:16:37Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>ShowBookmarkName</key>
 	<false/>
+	<key>ShowNewOutputIndicator</key>
+	<true/>
 	<key>ShowPaneTitles</key>
 	<true/>
 	<key>SmartPlacement</key>
@@ -1026,7 +1036,7 @@
 	<key>SplitPaneDimmingAmount</key>
 	<real>0.46676933092948725</real>
 	<key>TabStyle</key>
-	<integer>1</integer>
+	<integer>0</integer>
 	<key>TabViewType</key>
 	<integer>1</integer>
 	<key>UseBorder</key>
