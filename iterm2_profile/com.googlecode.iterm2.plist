@@ -249,10 +249,12 @@
 	<real>152.98046875</real>
 	<key>LoadPrefsFromCustomFolder</key>
 	<true/>
-	<key>NSFontPanelAttributes</key>
-	<string>1, 4</string>
 	<key>NSNavLastRootDirectory</key>
+<<<<<<< HEAD
 	<string>~/github/dotfiles/iterm2_profile</string>
+=======
+	<string>~/Web/dotfiles/iterm2_profile</string>
+>>>>>>> eaaf51ff682b8ac8572ecb640081bc67a91beee2
 	<key>NSNavPanelExpandedSizeForOpenMode</key>
 	<string>{712, 448}</string>
 	<key>NSQuotedKeystrokeBinding</key>
@@ -263,6 +265,7 @@
 	<false/>
 	<key>NSScrollViewShouldScrollUnderTitlebar</key>
 	<false/>
+<<<<<<< HEAD
 	<key>NSTableView Columns v2 KeyBingingTable</key>
 	<data>
 	YnBsaXN0MDDUAQIDBAUGNjdYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3AS
@@ -286,21 +289,56 @@
 	</data>
 	<key>NSTableView Supports v2 KeyBingingTable</key>
 	<true/>
+=======
+	<key>NSTableView Columns KeyBingingTable</key>
+	<array>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErATCG
+		</data>
+		<string>198</string>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
+		hAErATGG
+		</data>
+		<string>322</string>
+	</array>
+	<key>NSTableView Hidden Columns KeyBingingTable</key>
+	<array/>
+	<key>NSTableView Sort Ordering KeyBingingTable</key>
+	<array/>
+>>>>>>> eaaf51ff682b8ac8572ecb640081bc67a91beee2
 	<key>NSToolbar Configuration com.apple.NSColorPanel</key>
 	<dict>
 		<key>TB Is Shown</key>
 		<integer>1</integer>
 	</dict>
 	<key>NSWindow Frame NSFontPanel</key>
+<<<<<<< HEAD
 	<string>898 526 445 77 0 0 1440 877 </string>
 	<key>NSWindow Frame SUAutomaticUpdateAlert</key>
 	<string>652 664 616 174 0 0 1920 1058 </string>
+=======
+	<string>370 109 776 393 0 0 1280 777 </string>
+>>>>>>> eaaf51ff682b8ac8572ecb640081bc67a91beee2
 	<key>NSWindow Frame SUUpdateAlert</key>
-	<string>410 364 620 392 0 0 1440 877 </string>
+	<string>330 289 620 392 0 0 1280 777 </string>
 	<key>NSWindow Frame SharedPreferences</key>
+<<<<<<< HEAD
 	<string>750 380 796 473 0 0 1920 1058 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
 	<string>359 299 959 373 0 0 1920 1058 </string>
+=======
+	<string>279 278 796 473 0 0 1280 777 </string>
+	<key>NSWindow Frame UKCrashReporter</key>
+	<string>80 193 592 584 0 0 1280 777 </string>
+	<key>NSWindow Frame iTerm Window 0</key>
+	<string>0 0 1280 351 0 0 1280 777 </string>
+	<key>NSWindow Frame iTerm Window 1</key>
+	<string>343 140 570 452 0 0 1280 777 </string>
+	<key>NSWindow Frame iTerm Window 2</key>
+	<string>229 342 556 344 0 0 1280 777 </string>
+>>>>>>> eaaf51ff682b8ac8572ecb640081bc67a91beee2
 	<key>New Bookmarks</key>
 	<array>
 		<dict>
@@ -960,14 +998,21 @@
 			<string>/Users/joese</string>
 		</dict>
 	</array>
+<<<<<<< HEAD
 	<key>NoSyncCommandHistoryHasEverBeenUsed</key>
 	<true/>
 	<key>NoSyncHaveWarnedAboutPasteConfirmationChange</key>
 	<true/>
+=======
+>>>>>>> eaaf51ff682b8ac8572ecb640081bc67a91beee2
 	<key>NoSyncInstallationId</key>
-	<string>5F8E95E7-09C1-450D-94BC-CB6A154618EE</string>
+	<string>2A768C6F-29EC-4452-9A03-1AACB9F46C28</string>
 	<key>NoSyncLastTipTime</key>
+<<<<<<< HEAD
 	<real>498418564.966501</real>
+=======
+	<real>498488363.52747202</real>
+>>>>>>> eaaf51ff682b8ac8572ecb640081bc67a91beee2
 	<key>NoSyncNeverRemindPrefsChangesLostForFile</key>
 	<true/>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile_selection</key>
@@ -975,18 +1020,25 @@
 	<key>NoSyncPermissionToShowTip</key>
 	<true/>
 	<key>NoSyncTimeOfFirstLaunchOfVersionWithTip</key>
+<<<<<<< HEAD
 	<real>492526212.79158902</real>
+=======
+	<real>497727372.16307801</real>
+>>>>>>> eaaf51ff682b8ac8572ecb640081bc67a91beee2
 	<key>NoSyncTipsDisabled</key>
 	<true/>
 	<key>NoSyncTipsToNotShow</key>
 	<array>
 		<string>000</string>
 		<string>0000</string>
+<<<<<<< HEAD
 		<string>0001</string>
 		<string>0002</string>
 		<string>0003</string>
 		<string>0004</string>
 		<string>0005</string>
+=======
+>>>>>>> eaaf51ff682b8ac8572ecb640081bc67a91beee2
 	</array>
 	<key>OnlyWhenMoreTabs</key>
 	<false/>
@@ -1030,23 +1082,34 @@
 		</dict>
 	</dict>
 	<key>PrefsCustomFolder</key>
+<<<<<<< HEAD
 	<string>/Users/joese/Web/dotfiles/iterm2_profile</string>
+=======
+	<string>/Users/Joe/Web/dotfiles/iterm2_profile</string>
+>>>>>>> eaaf51ff682b8ac8572ecb640081bc67a91beee2
 	<key>Print In Black And White</key>
 	<true/>
 	<key>PromptOnQuit</key>
 	<false/>
+<<<<<<< HEAD
 	<key>SUAutomaticallyUpdate</key>
 	<true/>
+=======
+>>>>>>> eaaf51ff682b8ac8572ecb640081bc67a91beee2
 	<key>SUEnableAutomaticChecks</key>
 	<true/>
 	<key>SUFeedAlternateAppNameKey</key>
 	<string>iTerm</string>
 	<key>SUFeedURL</key>
-	<string>https://iterm2.com/appcasts/final.xml?shard=38</string>
+	<string>https://iterm2.com/appcasts/final.xml?shard=49</string>
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
+<<<<<<< HEAD
 	<date>2017-01-23T19:25:36Z</date>
+=======
+	<date>2016-10-18T12:59:28Z</date>
+>>>>>>> eaaf51ff682b8ac8572ecb640081bc67a91beee2
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>ShowBookmarkName</key>
@@ -1062,7 +1125,13 @@
 	<key>TabStyle</key>
 	<integer>0</integer>
 	<key>TabViewType</key>
+<<<<<<< HEAD
 	<integer>0</integer>
+=======
+	<integer>1</integer>
+	<key>UKCrashReporterLastCrashReportDate</key>
+	<real>1476164992</real>
+>>>>>>> eaaf51ff682b8ac8572ecb640081bc67a91beee2
 	<key>UseBorder</key>
 	<false/>
 	<key>WindowNumber</key>
